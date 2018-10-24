@@ -16,11 +16,11 @@ This tutorial kind of just used all the other tutorials I following into one. It
 
 * PlayerInputComponent false error
 
-* GetCapsuleComponent() doesn't work anymore, use GetRootComponent() instead
+* _GetCapsuleComponent()_ doesn't work anymore, use _GetRootComponent()_ instead
 
-* Must use: #include "Engine.h"
+* Must use: _#include "Engine.h"_
 
-* Must use: #include "Camera/CameraComponent.h"
+* Must use: _#include "Camera/CameraComponent.h"_
 
 * TSubclassOf<Class AFPSProjectile> ProjectileClass;
 needs to be
