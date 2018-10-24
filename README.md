@@ -8,7 +8,7 @@ This tutorial kind of just used all the other tutorials I following into one. It
 ## Notes
 Default generated code is different
 
-All files are missing, you have to get them from here: https://wiki.unrealengine.com/First_Person_Shooter_C%2B%2B_Tutorial#Adding_a_mesh_to_your_Character
+All files are missing, you have to get them from my link above or here: https://wiki.unrealengine.com/First_Person_Shooter_C%2B%2B_Tutorial#Adding_a_mesh_to_your_Character
 
 Be aware that the StartPlay function won't work until you move along with the tutorial. Turns out I didn't need to spend an hour debugging :|
 
