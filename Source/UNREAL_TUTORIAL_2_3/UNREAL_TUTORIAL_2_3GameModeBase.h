@@ -13,8 +13,8 @@ UCLASS()
 class UNREAL_TUTORIAL_2_3_API AUNREAL_TUTORIAL_2_3GameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
+
+	virtual void StartPlay() override;
 	
 	
 };
