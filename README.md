@@ -23,11 +23,11 @@ This tutorial kind of just used all the other tutorials I following into one. It
 * Must use: _#include "Camera/CameraComponent.h"_
 
 * TSubclassOf<Class AFPSProjectile> ProjectileClass;
-needs to be
+_needs to be_
 TSubclassOf<class AFPSProjectile> ProjectileClass;
 
 * Double-click the BP_FPSCharacter icon to open it in the Blueprint Editor.
-needs to be
+_needs to be_
 Double-click the BP_FPSProjectile icon to open it in the Blueprint Editor.
 
 * Open Class Defaults Mode 
