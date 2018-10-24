@@ -6,7 +6,7 @@ https://drive.google.com/open?id=1kfKFLIy12DQvnrec6F-rP0y3WcIZfR0W
 This tutorial kind of just used all the other tutorials I following into one. It had input, animations, physics, etc. It's a good general tutorial (even if the end result looks pretty crappy). This tutorial doesn't do a good job at explaining what things do. It's kinda just "copy and paste this". Though, since I already learned the stuff in depth in other tutorials, I knew what was going on. If I hadn't, I'd be lost.
 
 ## Notes
-Default code is different
+Default generated code is different
 
 All files are missing, you have to get them from here: https://wiki.unrealengine.com/First_Person_Shooter_C%2B%2B_Tutorial#Adding_a_mesh_to_your_Character
 
