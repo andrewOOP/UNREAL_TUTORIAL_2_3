@@ -19,7 +19,10 @@ PlayerInputComponent false error
 GetCapsuleComponent() doesn't work anymore
 use GetRootComponent() instead
 
+Must use:
 #include "Engine.h"
+
+Must use:
 #include "Camera/CameraComponent.h"
 
 TSubclassOf<Class AFPSProjectile> ProjectileClass;
